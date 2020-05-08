@@ -22,6 +22,9 @@ DO NOT turn on the machine once you finished the wizard. Make the following chan
       hw.model = "Macmini8,1"</br>
     Macmini8,1= "MacMini"</br>
     serialNumber="TheSerialNubmerOfYouMachineChnaging1Character"</br>
+serialNumber.reflectHost = "FALSE"</br>
+hw.model.reflectHost = "FALSE"</br>
+smbios.reflectHost = "FALSE"</br>
     </blockquote>
   </li>
   </ol>
