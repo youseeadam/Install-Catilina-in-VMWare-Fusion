@@ -21,7 +21,7 @@ DO NOT turn on the machine once you finished the wizard. Make the following chan
     <blockquote>
       hw.model = "Macmini8,1"</br>
     Macmini8,1= "MacMini"</br>
-    serialNumber="TheSerialNubmerOfYouMachineChnaging1Charafter"</br>
+    serialNumber="TheSerialNubmerOfYouMachineChnaging1Character"</br>
     </blockquote>
   </li>
   </ol>
