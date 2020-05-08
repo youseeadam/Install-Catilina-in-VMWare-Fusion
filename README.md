@@ -43,4 +43,5 @@ smbios.reflectHost = "FALSE"</br>
   </p>
   <B>Now turn on the machine and go through the setup process.</B>
   <p>You may get an error on first boot about ""FALSE"" that is okay, it is just fixing how something was copied and pasted.</p>
+  <B>Before you login for the first time SHUTDOWN the computer</B> then start it back up and you should be all set
     
