@@ -1,5 +1,7 @@
 # Install-Catilina-in-VMWare-Fusion
-How to install Catalina 
+How to install Catalina <p>
+<STRONG>So I am still working on this. I get to the point of installing the JAMF MDM Mobileconfig file, and it fails</STRONG>
+</p>
 Download the Catalina installer from https://apps.apple.com/us/app/macos-catalina/id1466841314?mt=12
 <p>
 hdiutil create 1015.dmg -size 8g -layout SPUD -fs HFS+J<br />
