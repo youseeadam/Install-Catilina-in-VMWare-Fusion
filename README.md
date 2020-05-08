@@ -11,6 +11,7 @@ hdiutil resize -sectors min 1015.dmg<br />
 <p>
 Now Open VMWare Fusion</ br>
 Mount the DMG and drag the .app onto fusion, this will start the installer.<br>
+At the customize screen click the advaced/customize installer, this will get everything ready, but will not turn on the VM. If you click conitnue it will start</br>
 DO NOT turn on the machine once you finished the wizard. Make the following changes</br>
 <ol>
   <li>Edit the VMX of the machine</li>
