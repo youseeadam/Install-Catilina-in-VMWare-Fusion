@@ -42,4 +42,5 @@ smbios.reflectHost = "FALSE"</br>
   Now go to the settings of the virtual machine (right click settings), then go to Network adapter and choose a bridged Networking option, one of the green ones.
   </p>
   <B>Now turn on the machine and go through the setup process.</B>
+  <p>You may get an error on first boot about ""FALSE"" that is okay, it is just fixing how something was copied and pasted.</p>
     
